@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding:40px;
+}
+#heading{
+    font-size: 10rem;
+
+}
+input[type="submit"]{
+    padding:7px;
+    margin:10px;
+    font-weight:bold;
+    cursor:pointer;
+    font-size: 2em;
+}
