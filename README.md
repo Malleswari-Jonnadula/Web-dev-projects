@@ -10,5 +10,5 @@ As I continue learning, I will extend this collection with projects using **Java
 - [Greeting Card](https://malleswari-jonnadula.github.io/Web-dev-projects/greeting-card/)
 - [Colored Markers](https://malleswari-jonnadula.github.io/Web-dev-projects/colored-markers/)
 - [Registration Form](https://malleswari-jonnadula.github.io/Web-dev-projects/Registration-form/)
-- [Simple Counter] (https://malleswari-jonnadula.github.io/Web-dev-projects/simple-counter)
-- [Random Number Generator] (https://malleswari-jonnadula.github.io/Web-dev-projects/Random-number-generator)
+- [Simple Counter](https://malleswari-jonnadula.github.io/Web-dev-projects/simple-counter)
+- [Random Number Generator](https://malleswari-jonnadula.github.io/Web-dev-projects/Random-number-generator)

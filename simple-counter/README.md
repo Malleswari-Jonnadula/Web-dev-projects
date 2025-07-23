@@ -24,5 +24,4 @@ This project demonstrates basic DOM manipulation and event handling in JavaScrip
 
 ## 🔗 Live Demo
 [View Counter Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/simple-counter/)  
-*(Replace with correct path once deployed)*
 
