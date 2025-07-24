@@ -10,3 +10,6 @@ This project demonstrates a responsive grid layout of colored boxes using HTML a
   - Predefined color names (`blue`, `orange`, `teal`, etc.)
 - Flexbox layout with wrapping 
 - Clean and semantic HTML structure
+
+## 🔗 Live Demo  
+[View Colored Boxes Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/colored-boxes/)

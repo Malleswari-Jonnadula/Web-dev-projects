@@ -18,3 +18,8 @@ This project builds a set of colorful markers using advanced CSS techniques. It 
 - `box-shadow` for glow and separation
 - Clean HTML markup with semantic class naming
 
+---
+
+## 🔗 Live Demo  
+[View Colored Markers Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/colored-markers/)
+

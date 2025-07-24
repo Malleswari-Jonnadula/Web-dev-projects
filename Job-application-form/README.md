@@ -24,3 +24,8 @@ A clean, responsive job application form built using HTML and CSS. This form cap
 - Visually distinct styling for focus, valid, and invalid states
 - Responsive layout for desktop and mobile
 - Professionally styled submit button with hover effects
+
+---
+
+## 🔗 Live Demo  
+[View Job Application Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/Job-application-form/)

@@ -20,3 +20,8 @@ A responsive, animated greeting card designed using HTML and CSS. This project f
 - Styled links with hover, focus, and active states
 - Hidden sections that appear using anchor links and `:target`
 - Mobile-friendly design with centered layout
+
+---
+
+## 🔗 Live Demo  
+[View Greeting Card Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/greeting-card/)

@@ -24,3 +24,8 @@ A fully styled user registration form built with semantic HTML and CSS. It colle
   - Checkbox for terms & conditions
   - Age input with min/max range
 - Mobile-friendly responsive design
+
+---
+
+## 🔗 Live Demo  
+[View Registration-form Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/Registration-form/)

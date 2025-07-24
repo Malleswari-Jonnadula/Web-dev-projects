@@ -12,3 +12,5 @@ As I continue learning, I will extend this collection with projects using **Java
 - [Registration Form](https://malleswari-jonnadula.github.io/Web-dev-projects/Registration-form/)
 - [Simple Counter](https://malleswari-jonnadula.github.io/Web-dev-projects/simple-counter)
 - [Random Number Generator](https://malleswari-jonnadula.github.io/Web-dev-projects/Random-number-generator)
+- [Dice Roller](https://malleswari-jonnadula.github.io/Web-dev-projects/dice-roller/)
+- [Random Password Generator](https://malleswari-jonnadula.github.io/Web-dev-projects/Random-password-generator/)
