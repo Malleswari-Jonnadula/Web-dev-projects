@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="icon" href="https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/calculator-512.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container">
+        <input id="display" readonly>
+        <div id="icons">
+            <button onclick="calculate('7')">7</button>
+            <button onclick="calculate('8')">8</button>
+            <button onclick="calculate('9')">9</button>
+            <button class="special" onclick="calculate('+')">+</button>
+            <button onclick="calculate('4')">4</button>
+            <button onclick="calculate('5')">5</button>
+            <button onclick="calculate('6')">6</button>
+            <button class="special" onclick="calculate('-')">-</button>
+            <button onclick="calculate('1')">1</button>
+            <button onclick="calculate('2')">2</button>
+            <button onclick="calculate('3')">3</button>
+            <button class="special" onclick="calculate('*')">x</button>
+            <button onclick="calculate('0')">0</button>
+            <button onclick="calculate('.')">.</button>
+            <button id="seperate" onclick="equal()">=</button>
+            <button class="special" onclick="calculate('/')">/</button>
+            <button onclick="calculate('%')">%</button>
+            <button class="adjust" onclick="sqrt()">√</button>
+            <button class="adjust" onclick="backspace()">⌫</button>
+            <button id="red" onclick="RESET()">C</button>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
