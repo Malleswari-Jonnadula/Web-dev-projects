@@ -16,3 +16,4 @@ As I continue learning, I will extend this collection with projects using **Java
 - [Random Password Generator](https://malleswari-jonnadula.github.io/Web-dev-projects/Random-password-generator/)
 - [Digital Clock](https://malleswari-jonnadula.github.io/Web-dev-projects/digital-clock/)
 - [Calculator](https://malleswari-jonnadula.github.io/Web-dev-projects/Calculator/)
+- [Rock Paper Scissors](https://malleswari-jonnadula.github.io/Web-dev-projects/Rock-paper-scissors/)
