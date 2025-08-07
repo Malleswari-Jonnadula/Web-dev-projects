@@ -76,6 +76,6 @@ If the input is invalid or empty, an appropriate error message is shown.
 ---
 
 ## 🔗 Live Demo  
-[View Weather App Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/Weather app/)
+[View Weather App Demo](https://malleswari-jonnadula.github.io/Web-dev-projects/Weather-app/)
 
 ---
